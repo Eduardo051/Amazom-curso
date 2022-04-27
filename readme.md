@@ -12,7 +12,7 @@
 
 *  Robotframework
 
-*  Git
+*  Github
 
 ## Executando teste
 
