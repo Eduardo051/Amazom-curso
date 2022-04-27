@@ -22,4 +22,6 @@ Abra a pasta do arquivo dentro do **Vscode**
 
 Para executar o teste use o terminal do **Vscode**, usando o seguinte comando:
 
-## **robot teste_edu.robot**
+```sh
+$ robot teste_edu.robot
+```
