@@ -16,7 +16,7 @@
 
 ## Executando teste
 
-Após instalar os programas, faça download do projeto no **Git**.
+Após instalar os programas, faça download do projeto no **Github**.
 
 Abra a pasta do arquivo dentro do **Vscode** 
 
